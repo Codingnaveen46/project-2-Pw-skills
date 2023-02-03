@@ -79,7 +79,7 @@ main{
     border: none;
     background-color:green;
     border-radius: 15px;
-    
+    cursor: pointer;
 }
 
 .rightmain{
